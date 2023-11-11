@@ -1,0 +1,9 @@
+.navbar{
+background-color: rgb(79, 33, 123);
+}
+.navbar-brand{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    cursor: pointer;
+}
+
