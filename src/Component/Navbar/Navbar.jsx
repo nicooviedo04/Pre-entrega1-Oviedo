@@ -1,4 +1,5 @@
 import './Navbar.css';
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
   return (
@@ -29,7 +30,9 @@ const Navbar = () => {
           </ul>
           <form className="d-flex" role="search">
             <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-            <button className="btn btn-outline-success" type="submit" id='Cart'><a href="../Cartwidget/Cartwidget.jsx">🛒</a></button>
+           <Link to={"/cart"}>
+           <button className="btn btn-outline-success" type="submit" id='Cart'>🛒</button>
+           </Link> 
           </form>
         </div>
       </div>
