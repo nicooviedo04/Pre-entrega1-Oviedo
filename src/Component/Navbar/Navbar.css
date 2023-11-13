@@ -1,10 +1,11 @@
 .navbar{
-background-color: rgb(79, 33, 123);
+background-color: rgb(122, 62, 159);
 }
 .navbar-brand{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 40px;
     cursor: pointer;
+    color: white;
 }
 .container-cart {
     display: flex;
