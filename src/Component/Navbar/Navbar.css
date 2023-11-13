@@ -6,4 +6,9 @@ background-color: rgb(79, 33, 123);
     font-size: 40px;
     cursor: pointer;
 }
-
+.container-cart {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    width: 250px;
+  }
