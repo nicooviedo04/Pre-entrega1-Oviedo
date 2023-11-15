@@ -1,5 +1,6 @@
 .navbar{
 background-color: rgb(122, 62, 159);
+list-style: none;
 }
 .navbar-brand{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
