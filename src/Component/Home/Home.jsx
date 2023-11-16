@@ -1,9 +1,10 @@
 import Navbar from "../Navbar/Navbar"
+import ItemListContainer from "../ItemListContainer/ItemListContainer"
 function Home() {
   return (
     <>
     <Navbar></Navbar>
-    <div>Home</div>
+    <ItemListContainer greeting={'Bienvenido al nuevo mundo del NFT💻❗'}></ItemListContainer>
     </>
   )
 }
