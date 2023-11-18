@@ -15,10 +15,12 @@ function App() {
           <Route path='/NuestrosProductos' element={<NuestrosProductos/>}/>
           <Route path='/Sobrenosotros' element={<Sobrenosotros/>}/>
         </Routes>
-      </BrowserRouter>
+        </BrowserRouter>
       </DataProvider>
      
   )
 }
 
 export default App
+
+

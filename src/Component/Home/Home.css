@@ -1,6 +1,20 @@
-.text-container{
-    width: 550px;
-    margin: 40px;
-    text-align: justify;
+
+.text-container {
+    width: 100%;
+    max-width: 550px;
+    margin: 40px 45px;
+    font-weight: 700;
     
+}
+
+@media only screen and (max-width: 768px) {
+    .text-container {
+        margin: 20px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .text-container {
+        margin: 10px;
+    }
 }
