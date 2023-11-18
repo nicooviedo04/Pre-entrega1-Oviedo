@@ -7,8 +7,10 @@ function Home() {
   return (
     <>
     <Navbar></Navbar>
-    <ItemListContainer greeting={'Bienvenido al nuevo mundo del NFT💻❗'}></ItemListContainer>
-    
+    <ItemListContainer  greeting={'Bienvenido al nuevo mundo del NFT💻❗'}></ItemListContainer>
+    <div className="personajes-3d">
+        <spline-viewer url="https://prod.spline.design/EH6HZwK2Tcl2UzSC/scene.splinecode"></spline-viewer>
+    </div>
     <div className="text-container">
         <p>
         Los NFT representan una revolución en la creatividad digital al fusionar la tecnología blockchain con el arte y la propiedad digital. 
@@ -19,8 +21,9 @@ function Home() {
         Redefiniendo la propiedad digital, los NFT crean mercados descentralizados y fomentan nuevas formas de expresión e innovación. 
         Es un viaje hacia un futuro donde la creatividad encuentra su expresión máxima y la tecnología blockchain lidera la era digital. 
         Es un mundo donde cada token cuenta una historia única en el lienzo digital del mañana.💡🎨✨
-        </p>
+        </p>     
     </div>
+    <ItemListContainer greeting={'Nuestras Card NFT'}></ItemListContainer>
     <section className="product-card">
     <Productos/>
     </section>
