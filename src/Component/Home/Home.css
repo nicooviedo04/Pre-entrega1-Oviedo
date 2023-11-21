@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
 
 .text-container {
     width: 100%;
@@ -5,6 +6,16 @@
     font-weight: 700;
     text-align: center;
     
+}
+.titulo-principal{
+    color: rgb(255, 255, 255);
+    font-family: 'Vina Sans', sans-serif;
+    
+}
+.sub-titulo{
+    color: rgb(255, 255, 255);
+    font-family: 'Vina Sans', sans-serif;
+
 }
 .personajes-3d{
     transform: translatex(+50%);

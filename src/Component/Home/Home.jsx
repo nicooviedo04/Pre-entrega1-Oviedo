@@ -7,7 +7,9 @@ function Home() {
   return (
     <>
     <Navbar></Navbar>
+    <div className="titulo-principal">
     <ItemListContainer  greeting={'Bienvenido al nuevo mundo del NFT💻❗'}></ItemListContainer>
+    </div>
     <div className="personajes-3d">
         <spline-viewer url="https://prod.spline.design/EH6HZwK2Tcl2UzSC/scene.splinecode"></spline-viewer>
     </div>
@@ -23,7 +25,9 @@ function Home() {
         Es un mundo donde cada token cuenta una historia única en el lienzo digital del mañana.💡🎨✨
         </p>     
     </div>
+    <div className="sub-titulo">
     <ItemListContainer greeting={'Nuestras Card NFT'}></ItemListContainer>
+    </div>
     <section className="product-card">
     <Productos/>
     </section>
