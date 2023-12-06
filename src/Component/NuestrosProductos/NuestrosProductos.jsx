@@ -1,10 +1,14 @@
 import Navbar from "../Navbar/Navbar"
 import Productos from "../Productos/Productos"
+import ItemListContainer from "../ItemListContainer/ItemListContainer"
 function NuestrosProductos() {
   return (
     <>
     <Navbar/>
-    <div>
+    <div className="titulo-principal">
+    <ItemListContainer  greeting={'💸Aqui estan todos Nuestros NFT💸'}></ItemListContainer>
+    </div>
+    <div  className="text-container">
       <p>
         
 Desarrollamos NFTs para ofrecer experiencias únicas en el espacio digital respaldadas por tecnología blockchain. 

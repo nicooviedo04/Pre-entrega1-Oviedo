@@ -1,47 +1,53 @@
 [
     {
+        "id": "1",
         "name": "cuthulu the boy" ,
-        "price":  "$2520",
+        "price":  "2520",
         "img":  "./img/carta 1.jpg.png",
         "description": "",
         "type": "raro"
     
     },
     {
+        "id": "2",
         "name": "V. Guardian " ,
-        "price":  "$1500",
+        "price":  "1500",
         "img":  "./img/carta 2.jpg.png",
         "description": "",
         "type": "comun"
     
     },
     {
+        "id": "3",
         "name": "The Bardo" ,
-        "price":  "$1250",
+        "price":  "1250",
         "img":  "./img/carta 3.jpg.png",
         "description": "",
         "type": "comun"
     
     },
     {
+        "id": "4",
         "name": "Bread K" ,
-        "price":  "$2520",
+        "price":  "2520",
         "img":  "./img/carta 4.jpg.png",
         "description": "",
         "type": "raro"
     
     },
     {
+        "id": "5",
         "name": "Butt Guy" ,
-        "price":  "$2520",
+        "price":  "2520",
         "img":  "./img/carta 5.jpg.png",
         "description": "",
         "type": "raro"
     
     },
     {
+        "id": "6",
         "name": "Unicor Major lasser" ,
-        "price":  "$10000",
+        "price":  "10000",
         "img":  "./img/carta 11.jpg.png",
         "description": "",
         "type": "Legendaria"
