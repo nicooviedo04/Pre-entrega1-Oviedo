@@ -1,10 +1,10 @@
 [
     {
         "id": "1",
-        "name": "cuthulu the boy" ,
+        "name": "Cuthulu the boy" ,
         "price":  "2520",
         "img":  "./img/carta 1.jpg.png",
-        "description": "",
+        "description": "Explora un mundo de misterio y maravilla con 'Cuthulu the Boy'. Sumérgete en una historia única que entrelaza la enigmática presencia de Cthulhu con la singularidad y la curiosidad propia de la infancia. Atrévete a adentrarte en este fascinante relato donde lo sobrenatural y lo inesperado convergen en una experiencia narrativa cautivadora",
         "type": "raro"
     
     },
@@ -13,7 +13,7 @@
         "name": "V. Guardian " ,
         "price":  "1500",
         "img":  "./img/carta 2.jpg.png",
-        "description": "",
+        "description": "Embárcate en una épica aventura con 'V. Guardian', donde la valentía se fusiona con la responsabilidad. En este apasionante relato, asume el papel de un guardián destinado a proteger lo que más importa. Descubre un mundo lleno de desafíos, decisiones difíciles y un sentido innato de la justicia mientras te conviertes en el vigilante indispensable que la historia demanda. ¿Estás listo para ser el guardián que la realidad necesita?",
         "type": "comun"
     
     },
@@ -22,7 +22,7 @@
         "name": "The Bardo" ,
         "price":  "1250",
         "img":  "./img/carta 3.jpg.png",
-        "description": "",
+        "description": "Sumérgete en las profundidades de 'The Bardo', un viaje místico que te transportará más allá de los límites de la realidad conocida. Explora un reino entre la vida y la muerte, donde la esencia misma de la existencia se revela en su máxima expresión. Enfréntate a desafíos espirituales, descubre secretos ancestrales y navega por el hilo del destino mientras te aventuras en este extraordinario viaje a través de 'The Bardo', donde los límites de la realidad se difuminan y el alma encuentra su camino",
         "type": "comun"
     
     },
@@ -31,7 +31,7 @@
         "name": "Bread K" ,
         "price":  "2520",
         "img":  "./img/carta 4.jpg.png",
-        "description": "",
+        "description": "¡Prepárate para una experiencia delirante con 'Bread K'! En este juego que desafía la lógica, embarcarte en una odisea panadera como ninguna otra. Sé el maestro de la masa, el rey del levado y el héroe del horno mientras te sumerges en un mundo donde la locura y la diversión se mezclan en cada bocado. 'Bread K' es más que un juego; es una travesía cómica y deliciosa que hará que te rías mientras amasas tu propio destino panadero. ¿Estás listo para hornear el caos y la diversión?",
         "type": "raro"
     
     },
@@ -40,7 +40,7 @@
         "name": "Butt Guy" ,
         "price":  "2520",
         "img":  "./img/carta 5.jpg.png",
-        "description": "",
+        "description": "Embárcate en una aventura cómica y peculiar con 'Butt Guy'. Prepárate para reír a carcajadas mientras te sumerges en las divertidas y alocadas peripecias de nuestro héroe, un personaje singular con un sentido del humor único. En 'Butt Guy', la diversión está en cada paso (o sentada), y las risas no tienen fin. Únete a Butt Guy en sus travesuras cómicas que te harán apreciar el lado más divertido de la vida, ¡donde la risa es la verdadera recompensa!",
         "type": "raro"
     
     },
@@ -49,7 +49,7 @@
         "name": "Unicor Major lasser" ,
         "price":  "10000",
         "img":  "./img/carta 11.jpg.png",
-        "description": "",
+        "description": "Embárcate en una odisea cósmica con 'Unicorn Major Laser'. En este fascinante viaje interestelar, únete a un majestuoso unicornio dotado de un poderoso rayo láser. Explora galaxias lejanas, enfrenta desafíles intergalácticos y descubre los misterios del cosmos mientras te conviertes en el líder de esta singular expedición. ¿Estás listo para deslumbrar al universo con la magia de 'Unicorn Major Laser' y conquistar los confines del espacio?",
         "type": "Legendaria"
     
     }
