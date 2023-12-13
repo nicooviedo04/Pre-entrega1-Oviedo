@@ -3,6 +3,7 @@
     justify-content: space-around;
     flex-wrap: wrap;
     margin: 30px;
+    border: 3px solid rgb(57, 9, 102); 
 }
 
 .cartContent > div {
@@ -55,4 +56,6 @@
     flex-wrap: wrap;
     margin: 30px;
     align-items: center;
+    width: 900px;
+
 }
